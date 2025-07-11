@@ -2,7 +2,7 @@
 
 **Sparky AI** is a fast, intelligent, and conversational Telegram bot powered by **Google's Gemini 2.0 Flash** model. Ask questions, request stories, or get help with technical and creative tasks — all within Telegram!
 
-👉 **Try it on Telegram:** [@YourBotUsername](https://t.me/@Sparky_is_a_BOT)  
+👉 **Try it on Telegram:** [@Sparky_is_a_BOT](https://t.me/Sparky_is_a_BOT)  
 🔗 **Model Used:** `models/gemini-2.0-flash`
 
 ---
