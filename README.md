@@ -24,3 +24,7 @@
 - **AI Engine:** Google Gemini 2.0 Flash via `google-generativeai`
 
 ---
+
+## 🙋‍♂️ Author 
+
+Made by Sesha satya sai
